@@ -25,6 +25,8 @@ int main(int argc, char const *argv[]) {
 
 	printf("%ld\t", resi);
 	printf("%lf sec\n", time_elapsed(&start, &end));
+	free(a);
+	return 0;
 }
 
 //returns the duration from start to end times in sec
