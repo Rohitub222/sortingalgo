@@ -1,4 +1,4 @@
-//implementation file for bubblesort sort which returns the number of comparisons as well
+//implementation file for bubble sort which returns the number of comparisons as well
 
 #include<stdio.h>
 #include"bsort.h"
